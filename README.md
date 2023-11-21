@@ -1,4 +1,4 @@
- [![MasterHead](https://r.resimlink.com/0Ibi4HQn.png)
+![MasterHead](https://r.resimlink.com/0Ibi4HQn.png)
 <h1 align="center">Hi 👋, I'm Rasim</h1>
 <h3 align="center">I'm a developer in Poland.</h3>
 
